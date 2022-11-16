@@ -1,0 +1,152 @@
+--------------CAUTI--------------
+Avg no. of hospitals that beat their random expectation: 1203.087 ± 105.474
+Avg percent of hospitals that beat their random expectation: 52.123 ± 2.055
+
+Avg no. of hospitals with min WinZ SIR score: 382.739 ± 92.238
+Avg no. of hospitals with min WinZ SIS score: 115.826 ± 7.761
+
+Avg median no. of days for hospitals: 4308.783 ± 1336.702
+Avg median no. of days for hospitals with min SIR: 1885.435 ± 608.109 | pdiff = 78.582 ± 9.594
+Avg median no. of days for hospitals with min SIS: 5643.609 ± 1217.616 | pdiff = 31.985 ± 21.244
+
+SIR: No. of times that hospitals in the worst quartile beat their random expectation: 288
+SIR: Avg no. of hospitals in the worst quartile that beat their random expectation: 12.522 ± 10.017
+SIR: Avg % of hospitals that beat their random expectation but were in the worst quartile: 1.03 ± 0.771
+
+SIR: No. of times hospitals failed to beat their random expectation and avoided the worst quartile: 12420
+SIR: Avg no. of hospitals that failed to beat their random expectation and were not in the worst quartile: 540.0 ± 43.565
+SIR: Avg % of hospitals that failed to beat their random expectation but were not in the worst quartile: 48.886 ± 1.743
+
+SIS: Avg no. of hospitals in the worst quartile that beat their random expectation: 0.0 ± 0.0
+SIS: Avg no. of hospitals that failed to beat their random expectation and were not in the worst quartile: 527.0 ± 50.33
+
+Avg no. of hospitals in worst SIR quartile but not in worst SIS quartile: 103.435 ± 17.825
+Avg no. of hospitals in worst SIS quartile but not in worst SIR quartile: 103.913 ± 17.934
+
+No. of times that hospitals with avg days or greater had an SIR of 0: 830
+Avg no. of hospitals having avg days or greater and an SIR of 0: 36.087 ± 20.16
+
+Avg % of hospitals with median days or greater having an SIR of 0: 3.173 ± 2.021
+Min - Max % of hospitals with median days or greater having an SIR of 0: 1.395 - 11.836
+
+Avg % of hospitals with less than avg days having an SIR of 0: 29.95 ± 5.588
+Min - Max % of hospitals with less than median days having an SIR of 0: 24.52 - 45.537
+Avg number of hospitals with SIS of 0: 0.0 ± 0.0
+Avg min SIS: -1.789 ± 0.376
+Avg max SIS: 7.054 ± 3.607
+
+
+--------------CLABSI--------------
+Avg no. of hospitals that beat their random expectation: 1063.652 ± 68.628
+Avg percent of hospitals that beat their random expectation: 53.057 ± 1.736
+
+Avg no. of hospitals with min WinZ SIR score: 377.261 ± 77.302
+Avg no. of hospitals with min WinZ SIS score: 100.739 ± 5.75
+
+Avg median no. of days for hospitals: 4198.891 ± 1335.936
+Avg median no. of days for hospitals with min SIR: 1893.109 ± 603.253 | pdiff = 75.613 ± 9.931
+Avg median no. of days for hospitals with min SIS: 4736.239 ± 1389.489 | pdiff = 15.364 ± 12.021
+
+SIR: No. of times that hospitals in the worst quartile beat their random expectation: 32
+SIR: Avg no. of hospitals in the worst quartile that beat their random expectation: 1.391 ± 3.227
+SIR: Avg % of hospitals that beat their random expectation but were in the worst quartile: 0.134 ± 0.305
+
+SIR: No. of times hospitals failed to beat their random expectation and avoided the worst quartile: 10157
+SIR: Avg no. of hospitals that failed to beat their random expectation and were not in the worst quartile: 441.609 ± 43.619
+SIR: Avg % of hospitals that failed to beat their random expectation but were not in the worst quartile: 46.832 ± 2.033
+
+SIS: Avg no. of hospitals in the worst quartile that beat their random expectation: 0.0 ± 0.0
+SIS: Avg no. of hospitals that failed to beat their random expectation and were not in the worst quartile: 440.0 ± 43.889
+
+Avg no. of hospitals in worst SIR quartile but not in worst SIS quartile: 60.826 ± 16.573
+Avg no. of hospitals in worst SIS quartile but not in worst SIR quartile: 61.043 ± 16.549
+
+No. of times that hospitals with avg days or greater had an SIR of 0: 1135
+Avg no. of hospitals having avg days or greater and an SIR of 0: 49.348 ± 24.012
+
+Avg % of hospitals with median days or greater having an SIR of 0: 5.008 ± 2.729
+Min - Max % of hospitals with median days or greater having an SIR of 0: 2.196 - 13.785
+
+Avg % of hospitals with less than avg days having an SIR of 0: 32.795 ± 5.955
+Min - Max % of hospitals with less than median days having an SIR of 0: 24.458 - 42.736
+Avg number of hospitals with SIS of 0: 0.0 ± 0.0
+Avg min SIS: -0.909 ± 0.208
+Avg max SIS: 5.602 ± 1.211
+
+
+--------------MRSA--------------
+Avg no. of hospitals that beat their random expectation: 944.913 ± 45.778
+Avg percent of hospitals that beat their random expectation: 53.102 ± 0.918
+
+Avg no. of hospitals with min WinZ SIR score: 291.174 ± 30.335
+Avg no. of hospitals with min WinZ SIS score: 89.522 ± 4.862
+
+Avg median no. of days for hospitals: 57366.804 ± 3544.565
+Avg median no. of days for hospitals with min SIR: 35552.043 ± 1890.051 | pdiff = 46.879 ± 3.585
+Avg median no. of days for hospitals with min SIS: 66311.022 ± 5803.151 | pdiff = 14.259 ± 8.662
+
+SIR: No. of times that hospitals in the worst quartile beat their random expectation: 155
+SIR: Avg no. of hospitals in the worst quartile that beat their random expectation: 6.739 ± 3.193
+SIR: Avg % of hospitals that beat their random expectation but were in the worst quartile: 0.718 ± 0.349
+
+SIR: No. of times hospitals failed to beat their random expectation and avoided the worst quartile: 9135
+SIR: Avg no. of hospitals that failed to beat their random expectation and were not in the worst quartile: 397.174 ± 31.88
+SIR: Avg % of hospitals that failed to beat their random expectation but were not in the worst quartile: 47.508 ± 0.969
+
+SIS: Avg no. of hospitals in the worst quartile that beat their random expectation: 0.0 ± 0.0
+SIS: Avg no. of hospitals that failed to beat their random expectation and were not in the worst quartile: 390.13 ± 32.813
+
+Avg no. of hospitals in worst SIR quartile but not in worst SIS quartile: 63.739 ± 7.432
+Avg no. of hospitals in worst SIS quartile but not in worst SIR quartile: 64.043 ± 7.457
+
+No. of times that hospitals with avg days or greater had an SIR of 0: 968
+Avg no. of hospitals having avg days or greater and an SIR of 0: 42.087 ± 7.12
+
+Avg % of hospitals with median days or greater having an SIR of 0: 4.725 ± 0.766
+Min - Max % of hospitals with median days or greater having an SIR of 0: 2.973 - 6.363
+
+Avg % of hospitals with less than avg days having an SIR of 0: 27.93 ± 1.714
+Min - Max % of hospitals with less than median days having an SIR of 0: 23.787 - 30.898
+Avg number of hospitals with SIS of 0: 0.0 ± 0.0
+Avg min SIS: -1.731 ± 0.146
+Avg max SIS: 6.452 ± 1.6
+
+
+--------------CDIFF--------------
+Avg no. of hospitals that beat their random expectation: 1523.304 ± 53.101
+Avg percent of hospitals that beat their random expectation: 48.145 ± 0.96
+
+Avg no. of hospitals with min WinZ SIR score: 322.826 ± 63.394
+Avg no. of hospitals with min WinZ SIS score: 158.696 ± 4.308
+
+Avg median no. of days for hospitals: 26688.174 ± 1851.62
+Avg median no. of days for hospitals with min SIR: 4786.674 ± 596.838 | pdiff = 139.269 ± 4.826
+Avg median no. of days for hospitals with min SIS: 26345.196 ± 9797.808 | pdiff = 39.43 ± 15.733
+
+SIR: No. of times that hospitals in the worst quartile beat their random expectation: 300
+SIR: Avg no. of hospitals in the worst quartile that beat their random expectation: 13.043 ± 6.286
+SIR: Avg % of hospitals that beat their random expectation but were in the worst quartile: 0.864 ± 0.43
+
+SIR: No. of times hospitals failed to beat their random expectation and avoided the worst quartile: 19869
+SIR: Avg no. of hospitals that failed to beat their random expectation and were not in the worst quartile: 863.87 ± 36.039
+SIR: Avg % of hospitals that failed to beat their random expectation but were not in the worst quartile: 52.647 ± 1.012
+
+SIS: Avg no. of hospitals in the worst quartile that beat their random expectation: 0.0 ± 0.0
+SIS: Avg no. of hospitals that failed to beat their random expectation and were not in the worst quartile: 849.522 ± 36.368
+
+Avg no. of hospitals in worst SIR quartile but not in worst SIS quartile: 162.522 ± 26.489
+Avg no. of hospitals in worst SIS quartile but not in worst SIR quartile: 163.826 ± 26.437
+
+No. of times that hospitals with avg days or greater had an SIR of 0: 124
+Avg no. of hospitals having avg days or greater and an SIR of 0: 5.391 ± 1.375
+
+Avg % of hospitals with median days or greater having an SIR of 0: 0.342 ± 0.093
+Min - Max % of hospitals with median days or greater having an SIR of 0: 0.196 - 0.519
+
+Avg % of hospitals with less than avg days having an SIR of 0: 19.986 ± 3.577
+Min - Max % of hospitals with less than median days having an SIR of 0: 14.276 - 24.812
+Avg number of hospitals with SIS of 0: 0.0 ± 0.0
+Avg min SIS: -2.56 ± 1.174
+Avg max SIS: 4.435 ± 0.729
+
+
