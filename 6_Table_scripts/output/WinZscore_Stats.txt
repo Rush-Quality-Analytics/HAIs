@@ -1,0 +1,328 @@
+--------------------------------------------------------------------------
+--------------------------------  All quarters
+--------------------------------------------------------------------------
+
+---------------------------  SIS  ---------------------------
+
+CAUTI
+
+Number of hospitals that beat their random expectation: 27671
+Percent of hospitals that beat their random expectation: 52.149412939823975
+---------SIS---------
+Number of hospitals with min SIS: 112
+Avg no. of days for hospitals with min SIS: 5805.54
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 12121
+---------SIR---------
+Number of hospitals with min SIR: 302
+Avg no. of days for hospitals with min SIS: 3052.12
+Number of hospitals in the worst quartile that beat their random expectation: 288
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 12420
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 2379
+Hospitals in worst SIS quartile but not in worst SIR quartile: 2390
+
+
+CLABSI
+
+Number of hospitals that beat their random expectation: 24464
+Percent of hospitals that beat their random expectation: 53.04883337670223
+---------SIS---------
+Number of hospitals with min SIS: 110
+Avg no. of days for hospitals with min SIS: 4064.98
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 10120
+---------SIR---------
+Number of hospitals with min SIR: 274
+Avg no. of days for hospitals with min SIS: 3114.54
+Number of hospitals in the worst quartile that beat their random expectation: 32
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 10157
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 1399
+Hospitals in worst SIS quartile but not in worst SIR quartile: 1404
+
+
+MRSA
+
+Number of hospitals that beat their random expectation: 21733
+Percent of hospitals that beat their random expectation: 53.07722366043081
+---------SIS---------
+Number of hospitals with min SIS: 87
+Avg no. of days for hospitals with min SIS: 76587.6
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 8973
+---------SIR---------
+Number of hospitals with min SIR: 278
+Avg no. of days for hospitals with min SIS: 43402.88
+Number of hospitals in the worst quartile that beat their random expectation: 155
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 9135
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 1466
+Hospitals in worst SIS quartile but not in worst SIR quartile: 1473
+
+
+CDIFF
+
+Number of hospitals that beat their random expectation: 35036
+Percent of hospitals that beat their random expectation: 48.146875730049885
+---------SIS---------
+Number of hospitals with min SIS: 153
+Avg no. of days for hospitals with min SIS: 28875.78
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 19539
+---------SIR---------
+Number of hospitals with min SIR: 221
+Avg no. of days for hospitals with min SIS: 7073.98
+Number of hospitals in the worst quartile that beat their random expectation: 300
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 19869
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 3738
+Hospitals in worst SIS quartile but not in worst SIR quartile: 3768
+
+
+
+
+---------------------------  SIS  ---------------------------
+
+CAUTI
+
+Number of hospitals that beat their random expectation: 27671
+Percent of hospitals that beat their random expectation: 52.149412939823975
+---------SIS---------
+Number of hospitals with min SIS: 112
+Avg no. of days for hospitals with min SIS: 5805.54
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 12121
+---------SIR---------
+Number of hospitals with min SIR: 302
+Avg no. of days for hospitals with min SIS: 3052.12
+Number of hospitals in the worst quartile that beat their random expectation: 288
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 12420
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 2379
+Hospitals in worst SIS quartile but not in worst SIR quartile: 2390
+
+
+CLABSI
+
+Number of hospitals that beat their random expectation: 24464
+Percent of hospitals that beat their random expectation: 53.04883337670223
+---------SIS---------
+Number of hospitals with min SIS: 110
+Avg no. of days for hospitals with min SIS: 4064.98
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 10120
+---------SIR---------
+Number of hospitals with min SIR: 274
+Avg no. of days for hospitals with min SIS: 3114.54
+Number of hospitals in the worst quartile that beat their random expectation: 32
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 10157
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 1399
+Hospitals in worst SIS quartile but not in worst SIR quartile: 1404
+
+
+MRSA
+
+Number of hospitals that beat their random expectation: 21733
+Percent of hospitals that beat their random expectation: 53.07722366043081
+---------SIS---------
+Number of hospitals with min SIS: 87
+Avg no. of days for hospitals with min SIS: 76587.6
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 8973
+---------SIR---------
+Number of hospitals with min SIR: 278
+Avg no. of days for hospitals with min SIS: 43402.88
+Number of hospitals in the worst quartile that beat their random expectation: 155
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 9135
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 1466
+Hospitals in worst SIS quartile but not in worst SIR quartile: 1473
+
+
+CDIFF
+
+Number of hospitals that beat their random expectation: 35036
+Percent of hospitals that beat their random expectation: 48.146875730049885
+---------SIS---------
+Number of hospitals with min SIS: 153
+Avg no. of days for hospitals with min SIS: 28875.78
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 19539
+---------SIR---------
+Number of hospitals with min SIR: 221
+Avg no. of days for hospitals with min SIS: 7073.98
+Number of hospitals in the worst quartile that beat their random expectation: 300
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 19869
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 3738
+Hospitals in worst SIS quartile but not in worst SIR quartile: 3768
+
+
+
+
+--------------------------------------------------------------------------
+--------------------------------  Most recent quarter
+--------------------------------------------------------------------------
+
+---------------------------  SIS  ---------------------------
+
+CAUTI
+
+Number of hospitals that beat their random expectation: 1173
+Percent of hospitals that beat their random expectation: 51.833848873177196
+---------SIS---------
+Number of hospitals with min SIS: 114
+Avg no. of days for hospitals with min SIS: 5644.64
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 524
+---------SIR---------
+Number of hospitals with min SIR: 325
+Avg no. of days for hospitals with min SIS: 2788.69
+Number of hospitals in the worst quartile that beat their random expectation: 2
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 527
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 92
+Hospitals in worst SIS quartile but not in worst SIR quartile: 93
+
+
+CLABSI
+
+Number of hospitals that beat their random expectation: 1062
+Percent of hospitals that beat their random expectation: 53.6092882382635
+---------SIS---------
+Number of hospitals with min SIS: 100
+Avg no. of days for hospitals with min SIS: 7774.47
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 424
+---------SIR---------
+Number of hospitals with min SIR: 326
+Avg no. of days for hospitals with min SIS: 3030.42
+Number of hospitals in the worst quartile that beat their random expectation: 1
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 425
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 65
+Hospitals in worst SIS quartile but not in worst SIR quartile: 65
+
+
+MRSA
+
+Number of hospitals that beat their random expectation: 900
+Percent of hospitals that beat their random expectation: 52.17391304347826
+---------SIS---------
+Number of hospitals with min SIS: 87
+Avg no. of days for hospitals with min SIS: 76587.6
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 394
+---------SIR---------
+Number of hospitals with min SIR: 278
+Avg no. of days for hospitals with min SIS: 43402.88
+Number of hospitals in the worst quartile that beat their random expectation: 7
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 401
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 69
+Hospitals in worst SIS quartile but not in worst SIR quartile: 69
+
+
+CDIFF
+
+Number of hospitals that beat their random expectation: 1507
+Percent of hospitals that beat their random expectation: 49.2161985630307
+---------SIS---------
+Number of hospitals with min SIS: 154
+Avg no. of days for hospitals with min SIS: 34673.43
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 789
+---------SIR---------
+Number of hospitals with min SIR: 313
+Avg no. of days for hospitals with min SIS: 8246.65
+Number of hospitals in the worst quartile that beat their random expectation: 8
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 799
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 121
+Hospitals in worst SIS quartile but not in worst SIR quartile: 123
+
+
+
+
+---------------------------  SIS  ---------------------------
+
+CAUTI
+
+Number of hospitals that beat their random expectation: 1173
+Percent of hospitals that beat their random expectation: 51.833848873177196
+---------SIS---------
+Number of hospitals with min SIS: 114
+Avg no. of days for hospitals with min SIS: 5644.64
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 524
+---------SIR---------
+Number of hospitals with min SIR: 325
+Avg no. of days for hospitals with min SIS: 2788.69
+Number of hospitals in the worst quartile that beat their random expectation: 2
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 527
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 92
+Hospitals in worst SIS quartile but not in worst SIR quartile: 93
+
+
+CLABSI
+
+Number of hospitals that beat their random expectation: 1062
+Percent of hospitals that beat their random expectation: 53.6092882382635
+---------SIS---------
+Number of hospitals with min SIS: 100
+Avg no. of days for hospitals with min SIS: 7774.47
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 424
+---------SIR---------
+Number of hospitals with min SIR: 326
+Avg no. of days for hospitals with min SIS: 3030.42
+Number of hospitals in the worst quartile that beat their random expectation: 1
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 425
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 65
+Hospitals in worst SIS quartile but not in worst SIR quartile: 65
+
+
+MRSA
+
+Number of hospitals that beat their random expectation: 900
+Percent of hospitals that beat their random expectation: 52.17391304347826
+---------SIS---------
+Number of hospitals with min SIS: 87
+Avg no. of days for hospitals with min SIS: 76587.6
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 394
+---------SIR---------
+Number of hospitals with min SIR: 278
+Avg no. of days for hospitals with min SIS: 43402.88
+Number of hospitals in the worst quartile that beat their random expectation: 7
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 401
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 69
+Hospitals in worst SIS quartile but not in worst SIR quartile: 69
+
+
+CDIFF
+
+Number of hospitals that beat their random expectation: 1507
+Percent of hospitals that beat their random expectation: 49.2161985630307
+---------SIS---------
+Number of hospitals with min SIS: 154
+Avg no. of days for hospitals with min SIS: 34673.43
+No. hospitals in the worst quartile that beat their random expectation: 0
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 789
+---------SIR---------
+Number of hospitals with min SIR: 313
+Avg no. of days for hospitals with min SIS: 8246.65
+Number of hospitals in the worst quartile that beat their random expectation: 8
+No. hospitals that failed beat their random expectation and were not in the worst quartile: 799
+---------Quartile Change---------
+Hospitals in worst SIR quartile but not in worst SIS quartile: 121
+Hospitals in worst SIS quartile but not in worst SIR quartile: 123
+
+
+
+
